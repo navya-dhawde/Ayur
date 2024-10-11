@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Peta:wght@100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Whisper&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Whisper&family=WindSong:wght@400;500&display=swap');
+
+.home-rec-box {
+    width: 100%; /* Make the box same width as the image */
+    height: 100%; /* Adjust height as needed */
+}
+
+.home-rec-text{
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    color: #D5CDBC;
+}
+
+
+.home-box {
+    width: 500px; /* Adjust width as needed */
+    height: 100%; /* Adjust height as needed */
+  }
+
+.welcome-head{
+  font-family: "Cormorant", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.home-btn {
+  font-family: "Quicksand", sans-serif;
+  position: relative;
+  background-color: #6B796A;
+  color: #D5CDBC;
+  width: 90px; /* Adjust the width as needed */
+  padding: 8px; /* Keep the padding constant */
+  overflow: hidden; 
+  /* line-height: 64px; */
+  transition: all 0.3s;
+}
+
+.home-btn span {
+  transition: all 0.3s;
+  transform: scale(1, 1);
+}
+
+
+.home-btn::before, .home-btn::after {
+  content: '';
+  position: absolute;
+  transition: all 0.3s;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+.btn-one {
+  /* Other styles */
+  color: #D5CDBC; /* Initial text color */
+}
+
+.btn-one:hover {
+  color: #6B796A; /* Change text color on hover */
+}
+
+.btn-one::before {
+  left: 4px;
+  z-index: 1;
+  
+  opacity: 0;
+  background: #D5CDBC ;
+  transform: scale(0.1, 1);
+}
+
+.btn-one:hover::before {
+  opacity: 0.9;
+  width: 90px;
+  padding: 8px;
+  content: 'EXPLORE';
+  transform: scale(1, 1);
+}
+
+.btn-one::after {
+  transition: all 0.3s;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.btn-one:hover::after {
+  transform: scale(1, .1);
+  opacity: 0;
+}
+
+.home-footer-head{
+  color: #D5CDBC;
+  font-family: "Lexend Peta", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.home-footer-text{
+  color: #D5CDBC;
+  font-family: "Lexend Peta", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+.home-product-text {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.home-producthead-text{
+  font-family:  "Cormorant", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+.home-rounded-box {
+  border-radius: 0px 0 0px 0; /* Rounded top-left and bottom-right corners */
+  background-color: #CAA98B; /* Set the background color of the box */
+  padding: 6px; /* Add padding to the box */
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for a visual effect */
+}
+
+.product-grid {
+  text-align: center;
+}
+
+.product-boxes {
+  display: flex;
+  justify-content: center;
+}
+
+.home-product-box {
+  width: 30%; /* Adjust as needed */
+  padding: 10px;
+  transition: transform 0.3s ease;
+}
+
+.product-image {
+  width: 200px;
+  height: auto;
+  transition: transform 0.3s ease;
+}
+
+.home-product-box:hover {
+  transform: scale(1.1); /* Increase scale on hover */
+}
+
+.home-pro-text {
+  font-family: "WindSong", cursive;
+  font-weight: 500;
+  font-size: 2.1vw;
+  font-style: normal;
+}
+
+.whisper-regular {
+  font-family: "Whisper", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+

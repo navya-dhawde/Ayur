@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Peta:wght@100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.details-font{
+    font-family: "Lexend Peta", sans-serif;
+}
+
+.details-desc{
+    font-family: "Quicksand", sans-serif;
+}
+
+.details-head{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+}
+.details-title{
+    font-family: "Cormorant", serif;
+}

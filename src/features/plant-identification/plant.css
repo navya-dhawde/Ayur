@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Peta:wght@100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.plant-font{
+    font-family: "Lexend Peta", sans-serif;
+}
+
+.plant-desc{
+    font-family: "Quicksand", sans-serif;
+}
+
+.plant-head{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+}
+.plant-title{
+    font-family: "Cormorant", serif;
+}
+
+.plant-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.plant-button {
+    font-family: "Montserrat", sans-serif;
+    background-color: #10302A; /* Background color */
+    color: #F8F8F6; /* Text color */
+    padding: 10px 20px; /* Padding (top/bottom, left/right) */
+    font-size: 1rem; /* Font size */
+    border-radius: 1px; /* Border radius */
+    border: none; /* Remove border */
+    cursor: pointer; /* Change cursor on hover */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow */
+    transition: background-color 0.3s ease; /* Smooth transition */
+  }
+
+  .file-input {
+    display: none; /* Hide the default file input */
+  }
+  
+  .custom-file-upload {
+    font-family: "Montserrat", sans-serif;
+    background-color: #10302A; /* Background color */
+    color: white; /* Text color */
+    padding: 10px 20px; /* Padding (top/bottom, left/right) */
+    font-size: 1rem; /* Font size */
+    border: none; /* Remove border */
+    border-radius: 1px; /* Border radius */
+    cursor: pointer; /* Change cursor on hover */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow */
+    transition: background-color 0.3s ease; /* Smooth transition */
+  }
+  
+  .custom-file-upload:hover {
+    background-color: #2f5548; /* Change background color on hover */
+  }
+
+  .custom-font
+  {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1rem; /* Font size */
+    color: white; /* Text color */
+
+  }
+  
