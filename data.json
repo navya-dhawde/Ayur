@@ -1,0 +1,1174 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Bloom Organic Shower Gel",
+      "href": "#",
+      "thumbnail": "https://ik.imagekit.io/whvypz4ih/B_showergel-F.png?updatedAt=1712417696793",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "price": 900,
+      "discountPrice": 500,
+      "color": "",
+      "category": "Bodycare",
+      "brand": "Bloom",
+      "totalCount": 117,
+      "ratingAverage": 4,
+      "shippingCost": 80,
+      "stock": 32,
+      "images": [
+        "https://ik.imagekit.io/whvypz4ih/B_showergel-F.png?updatedAt=1712417696793",
+        "https://ik.imagekit.io/whvypz4ih/B_showergel-F.png?updatedAt=1712417696793",
+        "https://ik.imagekit.io/whvypz4ih/B_showergel-F.png?updatedAt=1712417696793"
+      ],
+      "description": "Refreshing & Skin Brightening Shower Gel",
+      "categories": "",
+      "rating": 0
+    },
+    {
+      "id": "2",
+      "title": "Just Herbs Complexion Pack",
+      "href": "#",
+      "thumbnail": "https://ik.imagekit.io/whvypz4ih/JH_pack.jpg?updatedAt=1712418088954",
+      "imageAlt": "Front of satchel with blue canvas body, black straps and handle, drawstring top, and front zipper pouch.",
+      "price": 1000,
+      "discountPrice": 0,
+      "color": "Black",
+      "totalCount": 17,
+      "category": "Skincare",
+      "brand": "Shagun",
+      "ratingAverage": 3.7,
+      "shippingCost": 80,
+      "stock": 2,
+      "images": [
+        " https://ik.imagekit.io/whvypz4ih/JH_pack.jpg?updatedAt=1712418088954",
+        " https://ik.imagekit.io/whvypz4ih/JH_pack.jpg?updatedAt=1712418088954",
+        " https://ik.imagekit.io/whvypz4ih/JH_pack.jpg?updatedAt=1712418088954"
+      ],
+      "description": "Just Herbs Complexion Pack",
+      "categories": "",
+      "rating": 0
+    },
+    {
+      "id": "3",
+      "title": "Just Herbs Face Pack",
+      "description": "Neem + Chandan Face pack",
+      "price": 549,
+      "discountPrice": 0,
+      "ratingAverage": 4.69,
+      "totalCount": 101,
+      "stock": 94,
+      "shippingCost": 80,
+      "brand": "Just Herbs",
+      "category": "Skincare",
+      "thumbnail": "https://ik.imagekit.io/whvypz4ih/JH_scrub.jpg?updatedAt=1712418088880",
+      "images": [
+        "https://ik.imagekit.io/whvypz4ih/JH_scrub.jpg?updatedAt=1712418088880",
+        "https://ik.imagekit.io/whvypz4ih/JH_scrub.jpg?updatedAt=1712418088880",
+        "https://ik.imagekit.io/whvypz4ih/JH_scrub.jpg?updatedAt=1712418088880"
+      ],
+      "categories": "",
+      "rating": 0
+    },
+    {
+      "id": "4",
+      "title": "Bloom Organic Serum",
+      "description": "Deep Nourishing Organic Serum",
+      "price": 900,
+      "discountPrice": 700,
+      "rating": 0,
+      "stock": 34,
+      "brand": "Bloom",
+      "shippingCost": 80,
+      "category": "Skincare",
+      "thumbnail": "https://ik.imagekit.io/whvypz4ih/B_serum.jpg?updatedAt=1712418088785",
+      "images": [
+        "https://ik.imagekit.io/whvypz4ih/B_serum.jpg?updatedAt=1712418088785",
+        "https://ik.imagekit.io/whvypz4ih/B_serum.jpg?updatedAt=1712418088785",
+        "https://ik.imagekit.io/whvypz4ih/B_serum.jpg?updatedAt=1712418088785",
+        "https://ik.imagekit.io/whvypz4ih/B_serum.jpg?updatedAt=1712418088785"
+      ],
+      "categories": ""
+    },
+    {
+      "id": "5",
+      "title": "Bloom Organic Body Lotion",
+      "description": "24-hr Hydrating Organic Body Lotion",
+      "price": 900,
+      "discountPrice": 700,
+      "shippingCost": 700,
+      "rating": 4.09,
+      "stock": 36,
+      "brand": "Bloom",
+      "category": "Bodycare",
+      "thumbnail": "https://ik.imagekit.io/whvypz4ih/B_lotion.png?updatedAt=1712418088731",
+      "images": [
+        "https://ik.imagekit.io/whvypz4ih/B_lotion.png?updatedAt=1712418088731",
+        "https://ik.imagekit.io/whvypz4ih/B_lotion.png?updatedAt=1712418088731",
+        "https://ik.imagekit.io/whvypz4ih/B_lotion.png?updatedAt=1712418088731",
+        "https://ik.imagekit.io/whvypz4ih/B_lotion.png?updatedAt=1712418088731"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Just Herbs Facial Serum",
+      "description": "ELIXIR Facial Seru.",
+      "price": 900,
+      "discountPrice": 700,
+      "rating": 4.3,
+      "stock": 123,
+      "shippingCost": 80,
+      "brand": "Just Herbs",
+      "category": "Skincare",
+      "thumbnail": "https://ik.imagekit.io/whvypz4ih/JH_Serum.png?updatedAt=1712418088575",
+      "images": [
+        "https://ik.imagekit.io/whvypz4ih/JH_Serum.png?updatedAt=1712418088575"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Khadi Natural Face Pack",
+      "description": "Neem, Basil & Mint Face Pack",
+      "price": 900,
+      "discountPrice": 700,
+      "rating": 4.09,
+      "stock": 32,
+      "brand": "Khadi Naturals",
+      "shippingCost": 700,
+      "category": "SKincare",
+      "thumbnail": "https://ik.imagekit.io/whvypz4ih/KN_facepack.jpg?updatedAt=1712497202928",
+      "images": [
+        "https://ik.imagekit.io/whvypz4ih/KN_facepack.jpg?updatedAt=1712497202928",
+        "https://ik.imagekit.io/whvypz4ih/KN_facepack.jpg?updatedAt=1712497202928",
+        "https://ik.imagekit.io/whvypz4ih/KN_facepack.jpg?updatedAt=1712497202928",
+        "https://ik.imagekit.io/whvypz4ih/KN_facepack.jpg?updatedAt=1712497202928"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "SoulTree Hibiscus Shampp",
+      "description": "Hibiscus Shampoo with Honey & Aloe Vera",
+      "price": 900,
+      "discountPrice": 700,
+      "rating": 4.57,
+      "shippingCost": 700,
+      "stock": 83,
+      "brand": "Soul Tree",
+      "category": "Haircare",
+      "thumbnail": "https://ik.imagekit.io/whvypz4ih/ST_shampoo.jpg?updatedAt=1712497203401",
+      "images": [
+        "https://ik.imagekit.io/whvypz4ih/ST_shampoo.jpg?updatedAt=1712497203401",
+        "https://ik.imagekit.io/whvypz4ih/ST_shampoo.jpg?updatedAt=1712497203401",
+        "https://ik.imagekit.io/whvypz4ih/ST_shampoo.jpg?updatedAt=1712497203401",
+        "https://ik.imagekit.io/whvypz4ih/ST_shampoo.jpg?updatedAt=1712497203401"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Kama Ayurveda Cleanser",
+      "description": "Geranium Cleansing Cream",
+      "price": 900,
+      "discountPrice": 700,
+      "rating": 4.25,
+      "stock": 50,
+      "shippingCost": 700,
+      "brand": "Kama Ayurveda",
+      "category": "Skincare",
+      "thumbnail": "https://ik.imagekit.io/whvypz4ih/KA_cleanser.jpg?updatedAt=1712497203115",
+      "images": [
+        "https://ik.imagekit.io/whvypz4ih/KA_cleanser.jpg?updatedAt=1712497203115",
+        "https://ik.imagekit.io/whvypz4ih/KA_cleanser.jpg?updatedAt=1712497203115",
+        "https://ik.imagekit.io/whvypz4ih/KA_cleanser.jpg?updatedAt=1712497203115",
+        "https://ik.imagekit.io/whvypz4ih/KA_cleanser.jpg?updatedAt=1712497203115"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Kama Ayurveda Rose Cleanser",
+      "description": "Rose Jasmine Face Cleanser",
+      "price": 900,
+      "discountPrice": 700,
+      "rating": 4.43,
+      "stock": 68,
+      "shippingCost": 700,
+      "brand": "Kama Ayurveda",
+      "category": "Skincare",
+      "thumbnail": "https://ik.imagekit.io/whvypz4ih/KA_rosecleanser.jpg?updatedAt=1712497203233",
+      "images": [
+        "https://ik.imagekit.io/whvypz4ih/KA_rosecleanser.jpg?updatedAt=1712497203233",
+        "https://ik.imagekit.io/whvypz4ih/KA_rosecleanser.jpg?updatedAt=1712497203233",
+        "https://ik.imagekit.io/whvypz4ih/KA_rosecleanser.jpg?updatedAt=1712497203233",
+        "https://ik.imagekit.io/whvypz4ih/KA_rosecleanser.jpg?updatedAt=1712497203233",
+        "https://ik.imagekit.io/whvypz4ih/KA_rosecleanser.jpg?updatedAt=1712497203233"
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Khadi Natural Conditioner",
+      "description": "Amla & Reetha Conditioner",
+      "price": 900,
+      "discountPrice": 700,
+      "rating": 4.54,
+      "stock": 96,
+      "brand": "Khadi Naturals",
+      "category": "Haircare",
+      "thumbnail": "https://ik.imagekit.io/whvypz4ih/KN_conditioner.jpg?updatedAt=1712497203186",
+      "images": [
+        "https://ik.imagekit.io/whvypz4ih/KN_conditioner.jpg?updatedAt=1712497203186",
+        "https://ik.imagekit.io/whvypz4ih/KN_conditioner.jpg?updatedAt=1712497203186",
+        "https://ik.imagekit.io/whvypz4ih/KN_conditioner.jpg?updatedAt=1712497203186"
+      ],
+      "deleted": true,
+      "shippingCost": 80,
+      "categories": ""
+    },
+    {
+      "id": "12",
+      "title": "Kama Ayurveda Body Butter",
+      "description": "Kokum & Almond Body Butter",
+      "price": 900,
+      "discountPrice": 700,
+      "rating": 4.43,
+      "shippingCost": 700,
+      "stock": 89,
+      "brand": "Kama Ayurveda",
+      "category": "Bodycare",
+      "thumbnail": "https://ik.imagekit.io/whvypz4ih/KA_butter.jpg?updatedAt=1712497203118",
+      "images": [
+        "https://ik.imagekit.io/whvypz4ih/KA_butter.jpg?updatedAt=1712497203118",
+        "https://ik.imagekit.io/whvypz4ih/KA_butter.jpg?updatedAt=1712497203118",
+        "https://ik.imagekit.io/whvypz4ih/KA_butter.jpg?updatedAt=1712497203118",
+        "https://ik.imagekit.io/whvypz4ih/KA_butter.jpg?updatedAt=1712497203118"
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Banyan Tablets",
+      "href": "#",
+      "thumbnail": "https://ik.imagekit.io/whvypz4ih/B_tablets.jpg?updatedAt=1712497203395",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "price": 900,
+      "discountPrice": 700,
+      "color": "Black",
+      "shippingCost": 700,
+      "category": "Medicines",
+      "brand": "Jiva Ayurveda",
+      "totalCount": 117,
+      "ratingAverage": 4
+    },
+    {
+      "id": "14",
+      "title": "Tuss Nil Tablets",
+      "href": "#",
+      "thumbnail": "https://ik.imagekit.io/whvypz4ih/Syurp.jpg?updatedAt=1712497203229",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "price": 550,
+      "discountPrice": 450,
+      "shippingCost": 700,
+      "color": "Black",
+      "totalCount": 17,
+      "category": "Medicines",
+      "brand": "Jiva Ayurveda",
+      "ratingAverage": 3
+    },
+    {
+      "id": "15",
+      "title": "Dipya Digestive Syrup",
+      "description": "Ayurvedic Digestive Syrup",
+      "price": 549,
+      "discountPrice": 449,
+      "shippingCost": 700,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Jiva Ayurveda",
+      "category": "Medicines",
+      "thumbnail": "https://ik.imagekit.io/whvypz4ih/D_medicine.jpg?updatedAt=1712497203225",
+      "images": [
+        "https://ik.imagekit.io/whvypz4ih/D_medicine.jpg?updatedAt=1712497203225",
+        "https://ik.imagekit.io/whvypz4ih/D_medicine.jpg?updatedAt=1712497203225",
+        "https://ik.imagekit.io/whvypz4ih/D_medicine.jpg?updatedAt=1712497203225",
+        "https://ik.imagekit.io/whvypz4ih/D_medicine.jpg?updatedAt=1712497203225",
+        "https://ik.imagekit.io/whvypz4ih/D_medicine.jpg?updatedAt=1712497203225"
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Khadi Natural Cream",
+      "description": "Anti-Blemish Cream",
+      "price": 900,
+      "discountPrice": 700,
+      "rating": 4.44,
+      "stock": 34,
+      "shippingCost": 700,
+      "brand": "Khadi Naturals",
+      "category": "Skincare",
+      "thumbnail": "https://ik.imagekit.io/whvypz4ih/KN_cream.jpg?updatedAt=1712518968558",
+      "images": [
+        "https://ik.imagekit.io/whvypz4ih/KN_cream.jpg?updatedAt=1712518968558",
+        "https://ik.imagekit.io/whvypz4ih/KN_cream.jpg?updatedAt=1712518968558",
+        "https://ik.imagekit.io/whvypz4ih/KN_cream.jpg?updatedAt=1712518968558",
+        "https://ik.imagekit.io/whvypz4ih/KN_cream.jpg?updatedAt=1712518968558"
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Khadi Natural Oil",
+      "description": "Organic Cold Pressed Hemp Oil",
+      "price": 900,
+      "discountPrice": 700,
+      "rating": 4.09,
+      "shippingCost": 700,
+      "stock": 36,
+      "brand": "Khadi Naturals",
+      "category": "Haircare",
+      "thumbnail": "https://ik.imagekit.io/whvypz4ih/ST_oil.jpg?updatedAt=1712518968339",
+      "images": [
+        "https://ik.imagekit.io/whvypz4ih/ST_oil.jpg?updatedAt=1712518968339"
+      ]
+    },
+    {
+      "id": "18",
+      "title": "SoulTree Kumkumadi Cleanser",
+      "description": "Kumkumadi Advanced Cleanser",
+      "price": 900,
+      "discountPrice": 700,
+      "rating": 4.3,
+      "shippingCost": 700,
+      "stock": 123,
+      "brand": "Soul Tree",
+      "category": "Skincare",
+      "thumbnail": "https://ik.imagekit.io/whvypz4ih/ST_cleaner.jpg?updatedAt=1712518968368",
+      "images": [
+        "https://ik.imagekit.io/whvypz4ih/ST_cleaner.jpg?updatedAt=1712518968368",
+        "https://ik.imagekit.io/whvypz4ih/ST_cleaner.jpg?updatedAt=1712518968368",
+        "https://ik.imagekit.io/whvypz4ih/ST_cleaner.jpg?updatedAt=1712518968368",
+        "https://ik.imagekit.io/whvypz4ih/ST_cleaner.jpg?updatedAt=1712518968368",
+        "https://ik.imagekit.io/whvypz4ih/ST_cleaner.jpg?updatedAt=1712518968368"
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Amritadi Tablets",
+      "description": "Health Tablets",
+      "price": 900,
+      "discountPrice": 700,
+      "rating": 4.09,
+      "shippingCost": 700,
+      "stock": 32,
+      "brand": "Jiva Ayurveda",
+      "category": "Medicines",
+      "thumbnail": "https://ik.imagekit.io/whvypz4ih/J_tablets.jpg?updatedAt=1712518968238",
+      "images": [
+        "https://ik.imagekit.io/whvypz4ih/J_tablets.jpg?updatedAt=1712518968238",
+        "https://ik.imagekit.io/whvypz4ih/J_tablets.jpg?updatedAt=1712518968238",
+        "https://ik.imagekit.io/whvypz4ih/J_tablets.jpg?updatedAt=1712518968238"
+      ]
+    },
+    {
+      "id": "20",
+      "title": "Isha Tablets",
+      "description": "Neem Tablets",
+      "price": 900,
+      "discountPrice": 700,
+      "rating": 4.57,
+      "shippingCost": 700,
+      "stock": 83,
+      "brand": "Jiva Ayurveda",
+      "category": "Medicines",
+      "thumbnail": "https://ik.imagekit.io/whvypz4ih/J_tablets1.png?updatedAt=1712518968065",
+      "images": [
+        "https://ik.imagekit.io/whvypz4ih/J_tablets1.png?updatedAt=1712518968065",
+        "https://ik.imagekit.io/whvypz4ih/J_tablets1.png?updatedAt=1712518968065",
+        "https://ik.imagekit.io/whvypz4ih/J_tablets1.png?updatedAt=1712518968065",
+        "https://ik.imagekit.io/whvypz4ih/J_tablets1.png?updatedAt=1712518968065"
+      ],
+      "deleted": true
+    },
+    {
+      "id": "21",
+      "title": "Sri Sri Syrup",
+      "description": "Raktavardhini Syrup",
+      "price": 900,
+      "discountPrice": 700,
+      "shippingCost": 700,
+      "rating": 4.25,
+      "stock": 50,
+      "brand": "Jiva Ayurveda",
+      "category": "Medicines",
+      "thumbnail": "https://ik.imagekit.io/whvypz4ih/J_syrup.jpg?updatedAt=1712519825593",
+      "images": [
+        "https://ik.imagekit.io/whvypz4ih/J_syrup.jpg?updatedAt=1712519825593",
+        "https://ik.imagekit.io/whvypz4ih/J_syrup.jpg?updatedAt=1712519825593",
+        "https://ik.imagekit.io/whvypz4ih/J_syrup.jpg?updatedAt=1712519825593",
+        "https://ik.imagekit.io/whvypz4ih/J_syrup.jpg?updatedAt=1712519825593"
+      ]
+    },
+    {
+      "id": "22",
+      "title": "Turmeric Plant",
+      "description": "Turmeric Plant",
+      "price": 900,
+      "discountPrice": 700,
+      "rating": 4.43,
+      "shippingCost": 700,
+      "stock": 68,
+      "brand": "Aasha",
+      "category": "Plants",
+      "thumbnail": "https://ik.imagekit.io/91yxvha4u/pot2.jpg?updatedAt=1712599272332",
+      "images": [
+        "https://ik.imagekit.io/91yxvha4u/pot2.jpg?updatedAt=1712599272332",
+        "https://ik.imagekit.io/91yxvha4u/pot2.jpg?updatedAt=1712599272332",
+        "https://ik.imagekit.io/91yxvha4u/pot2.jpg?updatedAt=1712599272332",
+        "https://ik.imagekit.io/91yxvha4u/pot2.jpg?updatedAt=1712599272332",
+        "https://ik.imagekit.io/91yxvha4u/pot2.jpg?updatedAt=1712599272332"
+      ]
+    },
+    {
+      "id": "23",
+      "title": "Lemongrass",
+      "description": "Lemon grass",
+      "price": 900,
+      "discountPrice": 700,
+      "rating": 4.54,
+      "shippingCost": 700,
+      "stock": 96,
+      "brand": "Aasha",
+      "category": "Plants",
+      "thumbnail": "https://ik.imagekit.io/91yxvha4u/pot8.jpg?updatedAt=1712599273046",
+      "images": [
+        "https://ik.imagekit.io/91yxvha4u/pot8.jpg?updatedAt=1712599273046",
+        "https://ik.imagekit.io/91yxvha4u/pot8.jpg?updatedAt=1712599273046",
+        "https://ik.imagekit.io/91yxvha4u/pot8.jpg?updatedAt=1712599273046",
+        "https://ik.imagekit.io/91yxvha4u/pot8.jpg?updatedAt=1712599273046",
+        "https://ik.imagekit.io/91yxvha4u/pot8.jpg?updatedAt=1712599273046"
+      ]
+    },
+    {
+      "id": "24",
+      "title": "Petunia",
+      "description": "Petunia",
+      "price": 900,
+      "discountPrice": 700,
+      "rating": 4.43,
+      "stock": 89,
+      "shippingCost": 700,
+      "brand": "Aasha",
+      "category": "Plants",
+      "thumbnail": "https://ik.imagekit.io/91yxvha4u/pot3.jpg?updatedAt=1712599273074",
+      "images": [
+        "https://ik.imagekit.io/91yxvha4u/pot3.jpg?updatedAt=1712599273074",
+        "https://ik.imagekit.io/91yxvha4u/pot3.jpg?updatedAt=1712599273074",
+        "https://ik.imagekit.io/91yxvha4u/pot3.jpg?updatedAt=1712599273074",
+        "https://ik.imagekit.io/91yxvha4u/pot3.jpg?updatedAt=1712599273074"
+      ]
+    },
+    {
+      "id": "25",
+      "title": "Spinach",
+      "description": "Palak",
+      "price": 900,
+      "discountPrice": 700,
+      "rating": 4.69,
+      "stock": 94,
+      "shippingCost": 700,
+      "brand": "Aasha",
+      "category": "Plants",
+      "thumbnail": "https://ik.imagekit.io/91yxvha4u/pot6.jpg?updatedAt=1712599273078",
+      "images": [
+        "https://ik.imagekit.io/91yxvha4u/pot6.jpg?updatedAt=1712599273078",
+        "https://ik.imagekit.io/91yxvha4u/pot6.jpg?updatedAt=1712599273078",
+        "https://ik.imagekit.io/91yxvha4u/pot6.jpg?updatedAt=1712599273078",
+        "https://ik.imagekit.io/91yxvha4u/pot6.jpg?updatedAt=1712599273078",
+        "https://ik.imagekit.io/91yxvha4u/pot6.jpg?updatedAt=1712599273078"
+      ]
+    },
+    {
+      "id": "26",
+      "title": "Papaya",
+      "description": "Papaya",
+      "price": 900,
+      "discountPrice": 700,
+      "rating": 4.44,
+      "shippingCost": 700,
+      "stock": 34,
+      "brand": "Aasha",
+      "category": "Plants",
+      "thumbnail": "https://ik.imagekit.io/91yxvha4u/pot4.jpg?updatedAt=1712599272916",
+      "images": [
+        "https://ik.imagekit.io/91yxvha4u/pot4.jpg?updatedAt=1712599272916",
+        "https://ik.imagekit.io/91yxvha4u/pot4.jpg?updatedAt=1712599272916",
+        "https://ik.imagekit.io/91yxvha4u/pot4.jpg?updatedAt=1712599272916",
+        "https://ik.imagekit.io/91yxvha4u/pot4.jpg?updatedAt=1712599272916"
+      ]
+    },
+    {
+      "id": "27",
+      "title": "Coconut",
+      "description": "Coconut",
+      "price": 900,
+      "discountPrice": 700,
+      "rating": 4.09,
+      "shippingCost": 700,
+      "stock": 36,
+      "brand": "Aasha",
+      "category": "Plants",
+      "thumbnail": "https://ik.imagekit.io/91yxvha4u/pot5.jpg?updatedAt=1712599272833",
+      "images": [
+        "https://ik.imagekit.io/91yxvha4u/pot5.jpg?updatedAt=1712599272833"
+      ]
+    },
+    {
+      "id": "28",
+      "title": "Fenugreek",
+      "description": "Fenugreek",
+      "price": 900,
+      "discountPrice": 700,
+      "rating": 4.3,
+      "stock": 123,
+      "brand": "Kasturi",
+      "shippingCost": 700,
+      "category": "Plants",
+      "thumbnail": "https://ik.imagekit.io/91yxvha4u/pot1.jpg?updatedAt=1712599272875",
+      "images": [
+        "https://ik.imagekit.io/91yxvha4u/pot1.jpg?updatedAt=1712599272875",
+        "https://ik.imagekit.io/91yxvha4u/pot1.jpg?updatedAt=1712599272875",
+        "https://ik.imagekit.io/91yxvha4u/pot1.jpg?updatedAt=1712599272875",
+        "https://ik.imagekit.io/91yxvha4u/pot1.jpg?updatedAt=1712599272875",
+        "https://ik.imagekit.io/91yxvha4u/pot1.jpg?updatedAt=1712599272875"
+      ]
+    },
+    {
+      "id": "29",
+      "title": "Vidya",
+      "description": "Vidya",
+      "price": 900,
+      "discountPrice": 700,
+      "rating": 4.09,
+      "stock": 32,
+      "brand": "Shagun",
+      "category": "Plants",
+      "shippingCost": 700,
+      "thumbnail": "https://ik.imagekit.io/91yxvha4u/pot7.jpg?updatedAt=1712599272910",
+      "images": [
+        "https://ik.imagekit.io/91yxvha4u/pot7.jpg?updatedAt=1712599272910",
+        "https://ik.imagekit.io/91yxvha4u/pot7.jpg?updatedAt=1712599272910",
+        "https://ik.imagekit.io/91yxvha4u/pot7.jpg?updatedAt=1712599272910"
+      ]
+    }
+  ],
+  "brands": [
+    {
+      "value": "Kama Ayurveda",
+      "label": "Kama Ayurveda",
+      "checked": false,
+      "id": "6c49"
+    },
+    {
+      "value": "Just Herbs",
+      "label": "Just Herbs",
+      "checked": false,
+      "id": "e059"
+    },
+    {
+      "value": "Bloom",
+      "label": "Bloom",
+      "checked": false,
+      "id": "3601"
+    },
+    {
+      "value": "Khadi Naturals",
+      "label": "Khadi Naturals",
+      "checked": false,
+      "id": "d994"
+    },
+    {
+      "value": "Soul Tree",
+      "label": "Soul Tree",
+      "checked": false,
+      "id": "bf1d"
+    },
+    {
+      "value": "Jiva Ayurveda",
+      "label": "Jiva Ayurveda",
+      "checked": false,
+      "id": "466a"
+    },
+    {
+      "value": "Shagun",
+      "label": "Shagun",
+      "checked": false,
+      "id": "466a"
+    },
+    {
+      "value": "Kasturi",
+      "label": "Kasturi",
+      "checked": false,
+      "id": "466a"
+    },
+    {
+      "value": "Aasha",
+      "label": "Aasha",
+      "checked": false,
+      "id": "466a"
+    }
+  ],
+  "categories": [
+    {
+      "value": "Skincare",
+      "label": "Skincare",
+      "checked": false,
+      "id": "bf2a"
+    },
+    {
+      "value": "Medicines",
+      "label": "Medicines",
+      "checked": false,
+      "id": "45ea"
+    },
+    {
+      "value": "Plants",
+      "label": "Plants",
+      "checked": false,
+      "id": "1af7"
+    },
+    {
+      "value": "Bodycare",
+      "label": "Bodycare",
+      "checked": false,
+      "id": "213d"
+    },
+    {
+      "value": "Haircare",
+      "label": "Haircare",
+      "checked": false,
+      "id": "ec78"
+    }
+  ],
+  "users": [
+    {
+      "id": "3263",
+      "email": "shreya@gmail.com",
+      "password": "shreya@123",
+      "role": "user",
+      "addresses": [
+        {
+          "name": "Arti chaurasiya",
+          "email": "arti@gmail.com",
+          "phone": "9044207635",
+          "street": "bhedaura maharajganj near bank of baroda ",
+          "city": "Azamgarh",
+          "state": "uttar pradesh",
+          "pinCode": "2231703",
+          "country": "India"
+        },
+        {
+          "name": "Shivam chaurasiya",
+          "email": "shivamshg1999@gmail.com",
+          "phone": "8957413082",
+          "country": "India",
+          "street": "dihwa bhadi,shahganj",
+          "city": "Shahganj",
+          "state": "uttar pradesh",
+          "pinCode": "223101"
+        }
+      ]
+    },
+    {
+      "id": "b501",
+      "email": "navya@gmail.com",
+      "password": "navya@123",
+      "role": "user",
+      "addresses": [
+        {
+          "name": "navya dhawde",
+          "email": "navya@gmail.com",
+          "phone": "9044207635",
+          "country": "India",
+          "street": "dihwa bhadi",
+          "city": "shahaganj",
+          "state": "uttar pradesh",
+          "pinCode": "223101"
+        }
+      ]
+    },
+    {
+      "id": "dada",
+      "email": "pari@gmail.com",
+      "password": "pari@123",
+      "role": "user",
+      "addresses": [
+        {
+          "name": "pari",
+          "email": "pari@gmail.com",
+          "phone": "7620625748",
+          "country": "India",
+          "street": "IIIT Guwahatu",
+          "city": "guwahati",
+          "state": "Andhra Pradesh",
+          "pinCode": "781015"
+        }
+      ]
+    },
+    {
+      "id": "35c0",
+      "email": "admin@gmail.com",
+      "password": "Admin@123",
+      "role": "admin",
+      "address": []
+    }
+  ],
+  "cart": [
+    {
+      "id": "079c",
+      "title": "Coconut",
+      "description": "Coconut",
+      "price": 900,
+      "discountPrice": 700,
+      "rating": 4.09,
+      "shippingCost": 700,
+      "stock": 36,
+      "brand": "Aasha",
+      "category": "Plants",
+      "thumbnail": "https://ik.imagekit.io/91yxvha4u/pot5.jpg?updatedAt=1712599272833",
+      "images": [
+        "https://ik.imagekit.io/91yxvha4u/pot5.jpg?updatedAt=1712599272833"
+      ],
+      "quantity": 1,
+      "users": "dada"
+    },
+    {
+      "id": "2a7a",
+      "title": "Bloom Organic Serum",
+      "description": "Deep Nourishing Organic Serum",
+      "price": 900,
+      "discountPrice": 700,
+      "rating": 0,
+      "stock": 34,
+      "brand": "Bloom",
+      "shippingCost": 80,
+      "category": "Skincare",
+      "thumbnail": "https://ik.imagekit.io/whvypz4ih/B_serum.jpg?updatedAt=1712418088785",
+      "images": [
+        "https://ik.imagekit.io/whvypz4ih/B_serum.jpg?updatedAt=1712418088785",
+        "https://ik.imagekit.io/whvypz4ih/B_serum.jpg?updatedAt=1712418088785",
+        "https://ik.imagekit.io/whvypz4ih/B_serum.jpg?updatedAt=1712418088785",
+        "https://ik.imagekit.io/whvypz4ih/B_serum.jpg?updatedAt=1712418088785"
+      ],
+      "categories": "",
+      "quantity": 1,
+      "users": "dada"
+    }
+  ],
+  "orders": [
+    {
+      "id": "8351",
+      "items": [
+        {
+          "id": "ebe8",
+          "title": "Turmeric Plant",
+          "description": "Turmeric Plant",
+          "price": 1499,
+          "discountPercentage": 10.23,
+          "rating": 4.43,
+          "stock": 68,
+          "brand": "Aasha",
+          "category": "Plants",
+          "thumbnail": "https://ik.imagekit.io/91yxvha4u/pot2.jpg?updatedAt=1712599272332",
+          "images": [
+            "https://ik.imagekit.io/91yxvha4u/pot2.jpg?updatedAt=1712599272332",
+            "https://ik.imagekit.io/91yxvha4u/pot2.jpg?updatedAt=1712599272332",
+            "https://ik.imagekit.io/91yxvha4u/pot2.jpg?updatedAt=1712599272332",
+            "https://ik.imagekit.io/91yxvha4u/pot2.jpg?updatedAt=1712599272332",
+            "https://ik.imagekit.io/91yxvha4u/pot2.jpg?updatedAt=1712599272332"
+          ],
+          "quantity": 1,
+          "users": "dada"
+        },
+        {
+          "id": "33f8",
+          "title": "Petunia",
+          "description": "Petunia",
+          "price": 1599,
+          "discountPercentage": 6.18,
+          "rating": 4.43,
+          "stock": 89,
+          "brand": "Aasha",
+          "category": "Plants",
+          "thumbnail": "https://ik.imagekit.io/91yxvha4u/pot3.jpg?updatedAt=1712599273074",
+          "images": [
+            "https://ik.imagekit.io/91yxvha4u/pot3.jpg?updatedAt=1712599273074",
+            "https://ik.imagekit.io/91yxvha4u/pot3.jpg?updatedAt=1712599273074",
+            "https://ik.imagekit.io/91yxvha4u/pot3.jpg?updatedAt=1712599273074",
+            "https://ik.imagekit.io/91yxvha4u/pot3.jpg?updatedAt=1712599273074"
+          ],
+          "quantity": 1,
+          "users": "dada"
+        }
+      ],
+      "totalAmount": null,
+      "totalItems": 2,
+      "user": {
+        "id": "dada",
+        "email": "pari@gmail.com",
+        "password": "pari@123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "pari",
+            "email": "pari@gmail.com",
+            "phone": "7620625748",
+            "country": "India",
+            "street": "IIIT Guwahatu",
+            "city": "guwahati",
+            "state": "Andhra Pradesh",
+            "pinCode": "781015"
+          }
+        ]
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "pari",
+        "email": "pari@gmail.com",
+        "phone": "7620625748",
+        "country": "India",
+        "street": "IIIT Guwahatu",
+        "city": "guwahati",
+        "state": "Andhra Pradesh",
+        "pinCode": "781015"
+      },
+      "status": "dispatched"
+    },
+    {
+      "id": "76b3",
+      "items": [
+        {
+          "id": "ebe8",
+          "title": "Turmeric Plant",
+          "description": "Turmeric Plant",
+          "price": 1499,
+          "discountPercentage": 10.23,
+          "rating": 4.43,
+          "stock": 68,
+          "brand": "Aasha",
+          "category": "Plants",
+          "thumbnail": "https://ik.imagekit.io/91yxvha4u/pot2.jpg?updatedAt=1712599272332",
+          "images": [
+            "https://ik.imagekit.io/91yxvha4u/pot2.jpg?updatedAt=1712599272332",
+            "https://ik.imagekit.io/91yxvha4u/pot2.jpg?updatedAt=1712599272332",
+            "https://ik.imagekit.io/91yxvha4u/pot2.jpg?updatedAt=1712599272332",
+            "https://ik.imagekit.io/91yxvha4u/pot2.jpg?updatedAt=1712599272332",
+            "https://ik.imagekit.io/91yxvha4u/pot2.jpg?updatedAt=1712599272332"
+          ],
+          "quantity": 1,
+          "users": "dada"
+        },
+        {
+          "id": "33f8",
+          "title": "Petunia",
+          "description": "Petunia",
+          "price": 1599,
+          "discountPercentage": 6.18,
+          "rating": 4.43,
+          "stock": 89,
+          "brand": "Aasha",
+          "category": "Plants",
+          "thumbnail": "https://ik.imagekit.io/91yxvha4u/pot3.jpg?updatedAt=1712599273074",
+          "images": [
+            "https://ik.imagekit.io/91yxvha4u/pot3.jpg?updatedAt=1712599273074",
+            "https://ik.imagekit.io/91yxvha4u/pot3.jpg?updatedAt=1712599273074",
+            "https://ik.imagekit.io/91yxvha4u/pot3.jpg?updatedAt=1712599273074",
+            "https://ik.imagekit.io/91yxvha4u/pot3.jpg?updatedAt=1712599273074"
+          ],
+          "quantity": 1,
+          "users": "dada"
+        }
+      ],
+      "totalAmount": null,
+      "totalItems": 2,
+      "user": {
+        "id": "dada",
+        "email": "pari@gmail.com",
+        "password": "pari@123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "pari",
+            "email": "pari@gmail.com",
+            "phone": "7620625748",
+            "country": "India",
+            "street": "IIIT Guwahatu",
+            "city": "guwahati",
+            "state": "Andhra Pradesh",
+            "pinCode": "781015"
+          }
+        ]
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "pari",
+        "email": "pari@gmail.com",
+        "phone": "7620625748",
+        "country": "India",
+        "street": "IIIT Guwahatu",
+        "city": "guwahati",
+        "state": "Andhra Pradesh",
+        "pinCode": "781015"
+      },
+      "status": "pending"
+    },
+    {
+      "id": "7c94",
+      "items": [
+        {
+          "id": "73ec",
+          "title": "Vidya",
+          "description": "Vidya",
+          "price": 900,
+          "discountPrice": 700,
+          "rating": 4.09,
+          "stock": 32,
+          "brand": "Shagun",
+          "category": "Plants",
+          "shippingCost": 700,
+          "thumbnail": "https://ik.imagekit.io/91yxvha4u/pot7.jpg?updatedAt=1712599272910",
+          "images": [
+            "https://ik.imagekit.io/91yxvha4u/pot7.jpg?updatedAt=1712599272910",
+            "https://ik.imagekit.io/91yxvha4u/pot7.jpg?updatedAt=1712599272910",
+            "https://ik.imagekit.io/91yxvha4u/pot7.jpg?updatedAt=1712599272910"
+          ],
+          "quantity": 1,
+          "users": "dada"
+        }
+      ],
+      "totalAmount": 1400,
+      "totalItems": 1,
+      "user": {
+        "id": "dada",
+        "email": "pari@gmail.com",
+        "password": "pari@123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "pari",
+            "email": "pari@gmail.com",
+            "phone": "7620625748",
+            "country": "India",
+            "street": "IIIT Guwahatu",
+            "city": "guwahati",
+            "state": "Andhra Pradesh",
+            "pinCode": "781015"
+          }
+        ]
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "pari",
+        "email": "pari@gmail.com",
+        "phone": "7620625748",
+        "country": "India",
+        "street": "IIIT Guwahatu",
+        "city": "guwahati",
+        "state": "Andhra Pradesh",
+        "pinCode": "781015"
+      },
+      "status": "pending"
+    },
+    {
+      "id": "dcbb",
+      "items": [
+        {
+          "id": "0270",
+          "title": "Just Herbs Complexion Pack",
+          "href": "#",
+          "thumbnail": "https://ik.imagekit.io/whvypz4ih/JH_pack.jpg?updatedAt=1712418088954",
+          "imageAlt": "Front of satchel with blue canvas body, black straps and handle, drawstring top, and front zipper pouch.",
+          "price": 1000,
+          "discountPrice": 0,
+          "color": "Black",
+          "totalCount": 17,
+          "category": "Skincare",
+          "brand": "Just Herbs",
+          "ratingAverage": 3.7,
+          "shippingCost": 80,
+          "stock": 2,
+          "images": [
+            " https://tailwindui.com/img/ecommerce-images/shopping-cart-page-04-product-02.jpg",
+            " https://tailwindui.com/img/ecommerce-images/shopping-cart-page-04-product-02.jpg",
+            " https://tailwindui.com/img/ecommerce-images/shopping-cart-page-04-product-02.jpg"
+          ],
+          "description": "InstaGlow Almond Complexion Pack",
+          "categories": "",
+          "rating": 0,
+          "quantity": 1,
+          "users": "dada"
+        }
+      ],
+      "totalAmount": 730,
+      "totalItems": 1,
+      "user": {
+        "id": "dada",
+        "email": "pari@gmail.com",
+        "password": "pari@123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "pari",
+            "email": "pari@gmail.com",
+            "phone": "7620625748",
+            "country": "India",
+            "street": "IIIT Guwahatu",
+            "city": "guwahati",
+            "state": "Andhra Pradesh",
+            "pinCode": "781015"
+          }
+        ]
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "pari",
+        "email": "pari@gmail.com",
+        "phone": "7620625748",
+        "country": "India",
+        "street": "IIIT Guwahatu",
+        "city": "guwahati",
+        "state": "Andhra Pradesh",
+        "pinCode": "781015"
+      },
+      "status": "pending"
+    },
+    {
+      "id": "2fbd",
+      "items": [
+        {
+          "id": "72d8",
+          "title": "Basic Tee",
+          "href": "#",
+          "thumbnail": "https://ik.imagekit.io/whvypz4ih/B_showergel-F.png?updatedAt=1712417696793",
+          "imageAlt": "Front of men's Basic Tee in black.",
+          "price": 900,
+          "discountPrice": 500,
+          "color": "Black",
+          "category": "tShirt",
+          "brand": "puma",
+          "totalCount": 117,
+          "ratingAverage": 4,
+          "shippingCost": 80,
+          "stock": 32,
+          "images": [
+            "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+            "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+            "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+          ],
+          "description": "Basic Tee",
+          "categories": "",
+          "rating": 0,
+          "quantity": 3,
+          "users": "b501"
+        },
+        {
+          "id": "315f",
+          "title": "Samsung Universe 9",
+          "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+          "price": 1249,
+          "discountPercentage": 15.46,
+          "rating": 4.09,
+          "stock": 36,
+          "brand": "Samsung",
+          "category": "smartphones",
+          "thumbnail": "https://ik.imagekit.io/whvypz4ih/B_lotion.png?updatedAt=1712418088731",
+          "images": [
+            "https://cdn.dummyjson.com/product-images/3/1.jpg"
+          ],
+          "quantity": 1,
+          "users": "b501"
+        }
+      ],
+      "totalAmount": null,
+      "totalItems": 4,
+      "user": {
+        "id": "b501",
+        "email": "navya@gmail.com",
+        "password": "navya@123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "navya dhawde",
+            "email": "navya@gmail.com",
+            "phone": "9044207635",
+            "country": "India",
+            "street": "dihwa bhadi",
+            "city": "shahaganj",
+            "state": "uttar pradesh",
+            "pinCode": "223101"
+          }
+        ]
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "navya dhawde",
+        "email": "navya@gmail.com",
+        "phone": "9044207635",
+        "country": "India",
+        "street": "dihwa bhadi",
+        "city": "shahaganj",
+        "state": "uttar pradesh",
+        "pinCode": "223101"
+      },
+      "status": "pending"
+    },
+    {
+      "id": "ea8d",
+      "items": [
+        {
+          "id": "079c",
+          "title": "Coconut",
+          "description": "Coconut",
+          "price": 900,
+          "discountPrice": 700,
+          "rating": 4.09,
+          "shippingCost": 700,
+          "stock": 36,
+          "brand": "Aasha",
+          "category": "Plants",
+          "thumbnail": "https://ik.imagekit.io/91yxvha4u/pot5.jpg?updatedAt=1712599272833",
+          "images": [
+            "https://ik.imagekit.io/91yxvha4u/pot5.jpg?updatedAt=1712599272833"
+          ],
+          "quantity": 1,
+          "users": "dada"
+        }
+      ],
+      "totalAmount": 1400,
+      "totalItems": 1,
+      "user": {
+        "id": "dada",
+        "email": "pari@gmail.com",
+        "password": "pari@123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "pari",
+            "email": "pari@gmail.com",
+            "phone": "7620625748",
+            "country": "India",
+            "street": "IIIT Guwahatu",
+            "city": "guwahati",
+            "state": "Andhra Pradesh",
+            "pinCode": "781015"
+          }
+        ]
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "pari",
+        "email": "pari@gmail.com",
+        "phone": "7620625748",
+        "country": "India",
+        "street": "IIIT Guwahatu",
+        "city": "guwahati",
+        "state": "Andhra Pradesh",
+        "pinCode": "781015"
+      },
+      "status": "pending"
+    }
+  ]
+}
